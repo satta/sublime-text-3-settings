@@ -12,6 +12,6 @@
 		100,
 		120
 	],
-	"trim_trailing_white_space_on_save": true,
-	"show_minimap": false
+	"show_minimap": false,
+	"trim_trailing_white_space_on_save": true
 }
