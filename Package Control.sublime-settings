@@ -4,7 +4,12 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"BracketGuard",
 		"GitGutter",
-		"Package Control"
+		"Modific",
+		"Package Control",
+		"Theme - Centurion",
+		"Theme - Spacegray"
 	]
 }
