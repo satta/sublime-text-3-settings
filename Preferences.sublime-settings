@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": false,
 	"draw_minimap_border": false,
-	"font_size": 10,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
